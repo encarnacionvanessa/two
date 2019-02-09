@@ -1,1 +1,1 @@
-this is a text document.
+this is a text document. This is the second sentence.
